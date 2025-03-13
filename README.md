@@ -5,7 +5,7 @@ Test your concentration, challenge your friends, and see who has the best memory
 ![image](https://github.com/user-attachments/assets/0e2e4be2-77de-46ff-94cc-8bee3cf9c520)
 ### Difficulty
 Game has several difficulty levels based on board size:<br>
-### 3x4 4x4 5x4 6x6.<br>
+### 3x4
 ![image](https://github.com/user-attachments/assets/0e2e4be2-77de-46ff-94cc-8bee3cf9c520)
 ### 4x4
 ![image](https://github.com/user-attachments/assets/424d7bf6-c8c3-4709-a397-fee78652c59f)
@@ -13,8 +13,6 @@ Game has several difficulty levels based on board size:<br>
 ![image](https://github.com/user-attachments/assets/4a94a5da-31bf-42b1-a270-4aabf570a9a7)
 ### 6x6
 ![image](https://github.com/user-attachments/assets/168fbd9f-d9c3-405a-8734-dae0b4367b81)
-
-![image](https://github.com/user-attachments/assets/4ce5a5df-b889-4f0e-99dd-cfafa3ab7039)
 ### As you proggress check your moves and score in the left corner
 ![image](https://github.com/user-attachments/assets/24a4265d-9b2a-4d60-bf9e-e333cf4f874d)
 ### Scoreboard
