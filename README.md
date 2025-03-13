@@ -9,3 +9,7 @@ Game has several difficulty levels based on board size:<br>
 ![image](https://github.com/user-attachments/assets/4ce5a5df-b889-4f0e-99dd-cfafa3ab7039)
 ### As you proggress check your moves and score in the left corner
 ![image](https://github.com/user-attachments/assets/24a4265d-9b2a-4d60-bf9e-e333cf4f874d)
+### Scoreboard
+Check other's results divided in board sizes with scoreboard button.
+![image](https://github.com/user-attachments/assets/aa806120-14be-4799-8996-26bc0012dda9)
+
