@@ -14,4 +14,5 @@ Check other's results divided in board sizes with scoreboard button.
 ![image](https://github.com/user-attachments/assets/aa806120-14be-4799-8996-26bc0012dda9)
 ### Cheat 
 For lazy ones there is cheat button that reveals all pictures.
+![image](https://github.com/user-attachments/assets/042769e1-550b-430d-b92f-9ff1a52cdc99)
 
