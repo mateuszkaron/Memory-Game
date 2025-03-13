@@ -11,5 +11,5 @@ Game has several difficulty levels based on board size:<br>
 ![image](https://github.com/user-attachments/assets/24a4265d-9b2a-4d60-bf9e-e333cf4f874d)
 ### Scoreboard
 Check other's results divided in board sizes with scoreboard button.
-<center>![image](https://github.com/user-attachments/assets/aa806120-14be-4799-8996-26bc0012dda9)
+<center>![image](https://github.com/user-attachments/assets/aa806120-14be-4799-8996-26bc0012dda9)<center/>
 
