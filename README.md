@@ -9,7 +9,7 @@ Test your concentration, challenge your friends, and see who has the best memory
 ![image](https://github.com/user-attachments/assets/24a4265d-9b2a-4d60-bf9e-e333cf4f874d)
 
 ### Difficulty
-Game has several difficulty levels based on board size:<br>
+### Game has several difficulty levels based on board size:<br>
 ### 3x4
 ![image](https://github.com/user-attachments/assets/0e2e4be2-77de-46ff-94cc-8bee3cf9c520)
 ### 4x4
