@@ -29,3 +29,6 @@ For lazy ones there is cheat button that reveals all pictures.
 
 ![image](https://github.com/user-attachments/assets/042769e1-550b-430d-b92f-9ff1a52cdc99)
 
+
+All pictures were generated with AI.
+
