@@ -12,4 +12,6 @@ Game has several difficulty levels based on board size:<br>
 ### Scoreboard
 Check other's results divided in board sizes with scoreboard button.
 ![image](https://github.com/user-attachments/assets/aa806120-14be-4799-8996-26bc0012dda9)
+### Cheat 
+For lazy ones there is cheat button that reveals all pictures.
 
